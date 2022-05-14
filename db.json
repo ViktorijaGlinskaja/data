@@ -1,5 +1,4 @@
-[
-    "reviews": {
+{    "reviews": {
         "id": 1,
         "review": "Smells amazing. I’d give 10 stars if it was allowed!",
         "name": "Michelle W."
@@ -29,4 +28,4 @@
         "review": "A MUST for all sauna lovers!!!",
         "name": "Karin R."
     }
-]
+}
