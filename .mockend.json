@@ -1,32 +1,34 @@
-[
-    {
-        "id": 1,
-        "review": "Smells amazing. I’d give 10 stars if it was allowed!",
-        "name": "Michelle W."
-    },
-    {
-        "id": 2,
-        "review": "Best addition to my routine! I love the products! Love the customized additional product!",
-        "name": "Molly W."
-    },
-    {
-        "id": 3,
-        "review": "I was skeptical at first. A sauna themed mystery box? I love all of products, oils, soaps, accessories! Thank you for the genius minds behind this brand!",
-        "name": "Simon R."
-    },
-    {
-        "id": 4,
-        "review": "Fantastic site had a really good bunch of items. Top notch delivery service would highly recommend.",
-        "name": "John T."
-    },
-    {
-        "id": 5,
-        "review": "Fast delivery, Packaged nice. Thank you SAUNA Ritual!",
-        "name": "Ashley J."
-    },
-    {
-        "id": 6,
-        "review": "A MUST for all sauna lovers!!!",
-        "name": "Karin R."
-    }
-]
+{
+    "reviews" : [
+        {
+            "id": 1,
+            "review": "Smells amazing. I’d give 10 stars if it was allowed!",
+            "name": "Michelle W."
+        },
+        {
+            "id": 2,
+            "review": "Best addition to my routine! I love the products! Love the customized additional product!",
+            "name": "Molly W."
+        },
+        {
+            "id": 3,
+            "review": "I was skeptical at first. A sauna themed mystery box? I love all of products, oils, soaps, accessories! Thank you for the genius minds behind this brand!",
+            "name": "Simon R."
+        },
+        {
+            "id": 4,
+            "review": "Fantastic site had a really good bunch of items. Top notch delivery service would highly recommend.",
+            "name": "John T."
+        },
+        {
+            "id": 5,
+            "review": "Fast delivery, Packaged nice. Thank you SAUNA Ritual!",
+            "name": "Ashley J."
+        },
+        {
+            "id": 6,
+            "review": "A MUST for all sauna lovers!!!",
+            "name": "Karin R."
+        }
+    ]
+}
